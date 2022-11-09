@@ -1,6 +1,6 @@
 # TRX-Sweeper
 
-## First configure the bot by correctly fiiling the fields in (config.json) file
+## First configure the bot by correctly filling the fields in (config.json) file
 ## Fields:
 ### "PRIVATE_KEY" - private key of the wallet you wish to activate multisig or autowithdrawal *(main wallet)*
 ### "SIGNER_PRIVATE_KEY" - private key of external wallet you want to use for signing the main wallet.
