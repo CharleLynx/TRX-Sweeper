@@ -1,0 +1,16 @@
+{
+  "name": "trx_sweeper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "sign": "node app.js sign",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "X",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
